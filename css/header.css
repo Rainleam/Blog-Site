@@ -1,0 +1,24 @@
+/* header */
+
+.header {
+    grid-area: hd;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: #eee;
+}
+
+.title {
+    color: royalblue;
+}
+
+img {
+   width: 50%;
+   height: auto;
+}
+
+
+
+

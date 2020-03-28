@@ -1,0 +1,14 @@
+/* footer */
+
+.footer {
+    grid-area: ft;
+    margin-top: 2em;
+    background-color: royalblue;
+    text-align: center;
+}
+
+.footer p {
+    font-size: 0.8em;
+    color: white;
+    line-height: 2em;
+}
